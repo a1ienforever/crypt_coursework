@@ -1,0 +1,14 @@
+cffi==1.17.1
+cryptography==44.0.0
+environs==11.2.1
+greenlet==3.1.1
+marshmallow==3.23.1
+packaging==24.2
+pycparser==2.22
+pycryptodome==3.21.0
+PyQt6==6.7.1
+PyQt6-Qt6==6.7.3
+PyQt6_sip==13.8.0
+python-dotenv==1.0.1
+SQLAlchemy==2.0.36
+typing_extensions==4.12.2
